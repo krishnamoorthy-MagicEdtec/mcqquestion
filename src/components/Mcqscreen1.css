@@ -1,0 +1,12 @@
+.intro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(99, 227, 184);
+}
+.center{
+    align-items: center;
+}
+.title h1{
+    text-align: center;
+}

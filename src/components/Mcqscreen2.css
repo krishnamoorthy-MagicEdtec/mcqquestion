@@ -1,0 +1,19 @@
+
+.center{
+    align-items: center;
+}
+.title h1{
+    text-align: center;
+}
+/* .logo{
+    text-align: center;
+} */
+/* .qtn{
+    border: 1px solid black;
+} */
+.btn-primary.active {
+    color: #fff;
+    background-color: rgb(236, 28, 28) !important;
+    border-color: red !important;
+}
+
